@@ -1,96 +1,75 @@
-👋 Hi, I'm Pavan Bommedi
-🚀Full Stack Java Developer
+# Pavan Bommedi  
+Full Stack Java Developer | Microservices | Spring Boot | React | MySQL  
 
-💼 2+ years of experience | Java • Spring Boot • React • MySQL
-📍 India
+## Summary  
+Full Stack Java Developer with 2+ years of experience in designing and developing scalable, secure, and high-performance web applications. Strong expertise in building RESTful services using Spring Boot and Hibernate, with hands-on experience in microservices architecture. Proficient in developing responsive front-end applications using React and integrating them with backend services.  
 
-About Me
+## Technical Skills  
 
-🔭 Currently working as a Java Full Stack Developer
+### Programming Languages  
+- Java  
+- JavaScript  
 
-🏗️ Experienced in building scalable REST APIs using Spring Boot & Hibernate
+### Backend Development  
+- Spring Boot  
+- Spring MVC  
+- Spring Security  
+- Hibernate / JPA  
+- Microservices Architecture  
+- REST API Design and Development  
 
-🔐 Implemented JWT authentication and role-based access control using Spring Security
+### Frontend Development  
+- React.js  
+- HTML  
+- CSS  
 
-⚙️ Strong understanding of OOPs, Java internals, Collections, JVM
+### Database  
+- MySQL  
 
-🧠 Actively preparing for product-based company interviews
+### Tools and Platforms  
+- Git and GitHub  
+- Maven  
+- Postman  
+- IntelliJ IDEA  
+- Visual Studio Code  
 
-🌱 Improving skills in DSA, system design, and performance optimization
+## Professional Experience  
 
-💬 Ask me about Java, Spring Boot, Hibernate, MySQL, React
+- Developed and maintained RESTful APIs using Spring Boot following layered architecture (Controller, Service, Repository).  
+- Designed and implemented microservices-based systems for scalability and maintainability.  
+- Implemented authentication and authorization using Spring Security and JWT.  
+- Handled exception management, validation, and API documentation.  
+- Worked on database schema design, normalization, and query optimization.  
+- Improved application performance by addressing issues such as N+1 queries and inefficient database interactions.  
+- Integrated frontend applications with backend APIs ensuring proper state management and error handling.  
 
-🛠️ Tech Stack
-👨‍💻 Languages
+## Project Highlights  
 
-Java
+### Authentication and Authorization System  
+- Implemented JWT-based authentication mechanism.  
+- Designed role-based access control for different user roles.  
+- Configured Spring Security with custom filters and user details service.  
 
-JavaScript
+### Backend API Development  
+- Built scalable REST APIs with pagination, sorting, and filtering capabilities.  
+- Ensured clean code practices and separation of concerns.  
 
-⚙️ Backend
+### Database Design and Optimization  
+- Designed relational schemas with proper entity relationships.  
+- Optimized SQL queries and improved data access performance.  
 
-Spring Boot
+### Full Stack Development  
+- Developed end-to-end modules using React and Spring Boot.  
+- Integrated frontend and backend systems with proper API handling.  
 
-Spring MVC
+## Current Focus  
 
-Spring Security
+- Data Structures and Algorithms  
+- System Design (High-Level and Low-Level Design)  
+- Microservices and Distributed Systems  
+- Performance Optimization  
 
-Hibernate / JPA
+## Contact  
 
-RESTful APIs
-
-🗄️ Database
-
-MySQL
-
-🎨 Frontend
-
-React.js
-
-HTML
-
-CSS
-
-🧰 Tools & Platforms
-
-Git & GitHub
-
-Maven
-
-Postman
-
-IntelliJ IDEA
-
-VS Code
-
-Project Experience (Real-World)
-
-🔐 Authentication & Authorization System
-
-JWT-based authentication
-
-Role-based access (Admin, User)
-
-Spring Security filters & custom UserDetails
-
-📦 Backend REST APIs
-
-Clean layered architecture (Controller, Service, Repository)
-
-Exception handling & validation
-
-Pagination & sorting
-
-🗃️ Database Design
-
-Normalization & relationships (One-to-Many, Many-to-Many)
-
-Join optimization & query performance
-
-Hibernate lazy loading & N+1 issue handling
-
-🌐 Full Stack Modules
-
-React frontend integrated with Spring Boot backend
-
-API integration with proper loading & error states
+Open to opportunities in product-based companies and backend-focused roles.  
+Available for collaboration and technical discussions.  
